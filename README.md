@@ -1,0 +1,2 @@
+# spotify-term
+Spotify terminal
